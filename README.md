@@ -1,8 +1,7 @@
 # SpeakConnect
 
-<p align="center">
-  <img src="https://i.postimg.cc/tJ7vfwpK/Logo.jpg" />
-</p>
+![Logo Final banner](https://github.com/moisesbass/SpeakConnect/assets/72841588/c1982ab3-b9fd-40c3-97a4-aa0c67d6fcbf)
+
 
 
 SpeakConnect es una aplicación de intercambio de idiomas donde podrás hacer match con personas de diferentes países y practicar idiomas juntos.
