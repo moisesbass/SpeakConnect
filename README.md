@@ -78,8 +78,12 @@ Fin.
 2. Búsqueda de compañeros de intercambio de idiomas:
    -  Permite a los usuarios buscar y ver perfiles de otros usuarios que estén interesados en practicar idiomas.
 
-3.  Sistema de mensajería básico:
-    -  Permite a los usuarios comunicarse entre sí a través de mensajes para coordinar citas de intercambio de idiomas.
+
+## Pantallas MVP
+
+<p align="center">
+  <img src="https://i.postimg.cc/gkb9XS2s/Pantallas-MVP.jpg" />
+</p>
 
 
 ## Soporte y comentarios
