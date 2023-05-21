@@ -15,23 +15,17 @@ Cabe mencionar que no es una app de citas, sino una plataforma para encontrar co
 
 En un mundo globalizado, donde la comunicación y el aprendizaje de idiomas son fundamentales, se encuentra Pedro, un entusiasta del conocimiento y los idiomas. Sin embargo, Pedro se ha enfrentado a desafíos para encontrar compañeros de intercambio de idiomas y practicar de manera efectiva.
 
-Un día, mientras navega por la web en busca de soluciones, Moises descubre una aplicación innovadora llamada SpeakConnect. Sin perder tiempo, decide descargarla y sumergirse en ella.
+Un día, mientras navega por la web en busca de soluciones, Pedro descubre una aplicación innovadora llamada SpeakConnect. Sin perder tiempo, decide descargarla y sumergirse en ella.
 
-Al abrir SpeakConnect, Moises se encuentra con una vista principal donde puede crear su perfil y establecer sus preferencias de idioma. A través de pantallas interactivas, configura los idiomas que habla y los idiomas que desea practicar.
+Al abrir SpeakConnect, se encuentra con una vista principal donde puede crear su perfil y establecer sus preferencias de idioma. A través de pantallas interactivas, configura los idiomas que habla y los idiomas que desea practicar.
 
-Después de seleccionar un perfil interesante, accede a una pantalla de chat, donde puede interactuar con su compañero de intercambio de idiomas. A través de mensajes escritos y grabaciones de voz, Moises y su compañero comparten conocimientos y practican idiomas juntos.
+Después de seleccionar un perfil interesante, accede a una pantalla, donde puede interactuar con una lista de usuarios con los cuales puede intercambiar idiomas.
 
-SpeakConnect también ofrece una vista de actividades, donde Moises puede descubrir recursos de aprendizaje recomendados y sugerencias de práctica. Con solo unos pocos toques en la pantalla, puede acceder a materiales educativos y ejercicios interactivos para fortalecer sus habilidades lingüísticas.
+Gracias a SpeakConnect, Pedro ha dejado atrás los días de búsqueda frustrante de compañeros de intercambio de idiomas. La aplicación le ha brindado la oportunidad de interactuar con personas de todo el mundo, explorar diferentes culturas y mejorar sus habilidades lingüísticas de una manera divertida y significativa.
 
-Además, la aplicación cuenta con una vista de logros, donde puede rastrear su progreso y celebrar hitos alcanzados en su viaje de aprendizaje de idiomas. A medida que acumula más horas de práctica y se sumerge en conversaciones enriquecedoras, Moises desbloquea insignias y recompensas virtuales.
+Con cada pantalla que navega en SpeakConnect, descubre nuevas perspectivas, establece amistades internacionales y se sumerge en la diversidad de los idiomas. Al fin ha encontrado una herramienta poderosa que lo acompaña en su viaje de aprendizaje de idiomas y le permite practicar de manera efectiva.
 
-Gracias a SpeakConnect, Moises ha dejado atrás los días de búsqueda frustrante de compañeros de intercambio de idiomas. La aplicación le ha brindado la oportunidad de interactuar con personas de todo el mundo, explorar diferentes culturas y mejorar sus habilidades lingüísticas de una manera divertida y significativa.
-
-Con cada pantalla que navega en SpeakConnect, descubre nuevas perspectivas, establece amistades internacionales y se sumerge en la diversidad de los idiomas. Ha encontrado una herramienta poderosa que lo acompaña en su viaje de aprendizaje de idiomas y le permite practicar de manera efectiva.
-
-En un mundo cada vez más interconectado, SpeakConnect ha abierto un nuevo camino para Moises, lleno de oportunidades de aprendizaje y crecimiento personal a través de la interacción con otros apasionados del idioma.
-
-Fin.
+En un mundo cada vez más interconectado, SpeakConnect ha abierto un nuevo camino para Pedro, lleno de oportunidades de aprendizaje y crecimiento personal a través de la interacción con otros apasionados del idioma.
 
 
 ## Problemáticas identificadas
