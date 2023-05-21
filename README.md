@@ -66,7 +66,7 @@ En un mundo cada vez más interconectado, SpeakConnect ha abierto un nuevo camin
 ## Definicion de MVP
 
 1. Perfil de usuario:
-   -  Permite a los usuarios ver y editar su información personal, como nombre, foto de perfil y preferencias de idioma.
+   -  Permite a los usuarios ver y editar su información personal, como nombre, correo y preferencias de idioma.
    -  Conexion a base de datos Firebase
     
 2. Búsqueda de compañeros de intercambio de idiomas:
