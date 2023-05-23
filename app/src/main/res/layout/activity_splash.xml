@@ -9,11 +9,19 @@
 
     <com.airbnb.lottie.LottieAnimationView
         android:id="@+id/lottie"
-        android:layout_width="386dp"
-        android:layout_height="686dp"
+        android:layout_width="600dp"
+        android:layout_height="700dp"
         android:layout_centerInParent="true"
         app:lottie_autoPlay="true"
         app:lottie_loop="true"
-        app:lottie_rawRes="@raw/atom" />
+        app:lottie_rawRes="@raw/pulse" />
+
+    <ImageView
+        android:layout_width="180dp"
+        android:layout_marginLeft="110dp"
+        android:layout_height="180dp"
+        android:layout_marginTop="300dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/logo" />
 
 </RelativeLayout>
