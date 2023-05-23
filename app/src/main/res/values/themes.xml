@@ -2,8 +2,8 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.SpeakConnect" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/lavender</item>
-        <item name="colorPrimaryVariant">@color/lavender</item>
+        <item name="colorPrimary">@color/Azul</item>
+        <item name="colorPrimaryVariant">@color/Azul</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>
