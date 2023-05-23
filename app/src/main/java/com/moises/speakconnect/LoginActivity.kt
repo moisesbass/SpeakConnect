@@ -40,7 +40,7 @@ class LoginActivity : AppCompatActivity() {
                     }
                 }
             }else{
-                Toast.makeText(this, "Fields cannot be empty",Toast.LENGTH_SHORT).show()
+                Toast.makeText(this, "Los campos no pueden estar vacios",Toast.LENGTH_SHORT).show()
             }
         }
 
@@ -83,7 +83,7 @@ class LoginActivity : AppCompatActivity() {
         }
         firebaseAuth.sendPasswordResetEmail(email.text.toString()).addOnCompleteListener { task ->
             if (task.isSuccessful){
-                Toast.makeText(this,"Check you email",Toast.LENGTH_SHORT).show()
+                Toast.makeText(this,"Revisa tu correo",Toast.LENGTH_SHORT).show()
             }
         }
     }

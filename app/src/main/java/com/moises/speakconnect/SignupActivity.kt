@@ -41,10 +41,10 @@ class SignupActivity : AppCompatActivity() {
                         }
                     }
                 }else{
-                    Toast.makeText(this, "Password does not matched",Toast.LENGTH_SHORT).show()
+                    Toast.makeText(this, "La contraseña es diferente",Toast.LENGTH_SHORT).show()
                 }
             }else{
-                Toast.makeText(this, "Fields cannot be empty",Toast.LENGTH_SHORT).show()
+                Toast.makeText(this, "Los campos no pueden estar vacios",Toast.LENGTH_SHORT).show()
             }
         }
         binding.loginRedirectText.setOnClickListener{
