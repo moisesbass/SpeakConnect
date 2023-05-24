@@ -17,12 +17,10 @@
             android:gravity="center_horizontal">
 
             <ImageView
-                android:layout_marginTop="20dp"
-                android:layout_width="200dp"
-                android:layout_height="200dp"
-                android:src="@drawable/logo"
-                android:scaleType="fitXY"/>
-
+                android:layout_width="214dp"
+                android:layout_height="208dp"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/logo" />
         </LinearLayout>
 
         <LinearLayout
@@ -30,6 +28,36 @@
             android:layout_height="wrap_content"
             android:orientation="vertical"
             android:padding="20dp">
+
+            <TextView
+                android:layout_width="205dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:layout_marginTop="-10dp"
+                android:text="SpeakConnect"
+                android:textStyle="bold|normal"
+                android:textColor="#031023"
+                android:textSize="30dp" />
+
+            <TextView
+                android:layout_width="225dp"
+                android:layout_height="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:text="Un mundo de idiomas a tu alcance"
+                android:textColor="#031023" />
+
+            <EditText
+                android:id="@+id/signup_name"
+                android:layout_width="350dp"
+                android:layout_height="60dp"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/borde"
+                android:padding="8dp"
+                android:hint="Name"
+                android:drawableLeft="@drawable/icon_person"
+                android:drawablePadding="10dp"
+                android:textColor="@color/black"/>
 
             <EditText
                 android:id="@+id/signup_email"
@@ -44,6 +72,30 @@
                 android:textColor="@color/black"/>
 
             <EditText
+                android:id="@+id/signup_intereses"
+                android:layout_width="350dp"
+                android:layout_height="60dp"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/borde"
+                android:padding="8dp"
+                android:hint="@string/interests_english_spanish_french"
+                android:drawableLeft="@drawable/icon_interest"
+                android:drawablePadding="10dp"
+                android:textColor="@color/black"/>
+
+            <EditText
+                android:id="@+id/signup_nacionalidad"
+                android:layout_width="350dp"
+                android:layout_height="60dp"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/borde"
+                android:padding="8dp"
+                android:hint="@string/native_language"
+                android:drawableLeft="@drawable/icon_speak"
+                android:drawablePadding="10dp"
+                android:textColor="@color/black"/>
+
+            <EditText
                 android:id="@+id/signup_contrasenia"
                 android:inputType="textPassword"
                 android:layout_width="350dp"
@@ -51,8 +103,8 @@
                 android:layout_marginTop="30dp"
                 android:background="@drawable/borde"
                 android:padding="8dp"
-                android:hint="Password"
-                android:drawableLeft="@drawable/icon_contrasenia"
+                android:hint="@string/password"
+                android:drawableStart="@drawable/icon_contrasenia"
                 android:drawablePadding="10dp"
                 android:textColor="@color/black"/>
 
@@ -64,7 +116,7 @@
                 android:layout_marginTop="30dp"
                 android:background="@drawable/borde"
                 android:padding="8dp"
-                android:hint="Confirm Password"
+                android:hint="@string/confirm_password"
                 android:drawableLeft="@drawable/icon_candado"
                 android:drawablePadding="10dp"
                 android:textColor="@color/black"/>
@@ -73,7 +125,7 @@
                 android:layout_width="350dp"
                 android:layout_height="70dp"
                 android:layout_marginTop="30dp"
-                android:text="Sign Up"
+                android:text="@string/sign_up"
                 android:textSize="18sp"
                 app:cornerRadius="30dp"/>
 
@@ -86,7 +138,7 @@
                 android:textColor="@color/black"
                 android:layout_marginTop="8dp"
                 android:textSize="18sp"
-                android:text="Already an user? Login"/>
+                android:text="@string/already"/>
 
 
 

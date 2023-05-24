@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">SpeakConnect</string>
+    <string name="already_an_user_login">Already an user? Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="interests_english_spanish_french">Interests (English, Spanish, French)</string>
+    <string name="native_language">Native Language</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already">Already an user? Login</string>
 </resources>

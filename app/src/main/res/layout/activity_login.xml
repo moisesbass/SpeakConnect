@@ -35,6 +35,24 @@
                 android:orientation="vertical"
                 android:padding="20dp">
 
+                <TextView
+                    android:layout_width="205dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|center_horizontal"
+                    android:layout_marginTop="-11dp"
+                    android:text="SpeakConnect"
+                    android:textStyle="bold|normal"
+                    android:textColor="#031023"
+                    android:textSize="30dp" />
+
+                <TextView
+                    android:layout_width="225dp"
+                    android:layout_height="20dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_gravity="center_vertical|center_horizontal"
+                    android:text="Un mundo de idiomas a tu alcance"
+                    android:textColor="#031023" />
+
                 <EditText
                     android:id="@+id/login_email"
                     android:layout_width="350dp"
