@@ -7,4 +7,8 @@
     <string name="password">Password</string>
     <string name="confirm_password">Confirm Password</string>
     <string name="already">Already an user? Login</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Perfil</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Chat</string>
 </resources>
