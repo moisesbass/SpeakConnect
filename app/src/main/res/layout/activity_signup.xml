@@ -18,7 +18,7 @@
 
             <ImageView
                 android:layout_width="214dp"
-                android:layout_height="208dp"
+                android:layout_height="200dp"
                 android:layout_marginTop="10dp"
                 android:src="@drawable/logo" />
         </LinearLayout>
@@ -30,10 +30,9 @@
             android:padding="20dp">
 
             <TextView
-                android:layout_width="205dp"
+                android:layout_width="220dp"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical|center_horizontal"
-                android:layout_marginTop="-10dp"
                 android:text="SpeakConnect"
                 android:textStyle="bold|normal"
                 android:textColor="#031023"
