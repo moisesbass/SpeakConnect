@@ -72,30 +72,6 @@
                 android:textColor="@color/black"/>
 
             <EditText
-                android:id="@+id/signup_intereses"
-                android:layout_width="350dp"
-                android:layout_height="60dp"
-                android:layout_marginTop="30dp"
-                android:background="@drawable/borde"
-                android:padding="8dp"
-                android:hint="@string/interests_english_spanish_french"
-                android:drawableLeft="@drawable/icon_interest"
-                android:drawablePadding="10dp"
-                android:textColor="@color/black"/>
-
-            <EditText
-                android:id="@+id/signup_nacionalidad"
-                android:layout_width="350dp"
-                android:layout_height="60dp"
-                android:layout_marginTop="30dp"
-                android:background="@drawable/borde"
-                android:padding="8dp"
-                android:hint="@string/native_language"
-                android:drawableLeft="@drawable/icon_speak"
-                android:drawablePadding="10dp"
-                android:textColor="@color/black"/>
-
-            <EditText
                 android:id="@+id/signup_contrasenia"
                 android:inputType="textPassword"
                 android:layout_width="350dp"
